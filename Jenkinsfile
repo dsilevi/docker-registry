@@ -11,7 +11,7 @@ pipeline {
         stage('Apply k8s-manifests') {
             steps {
                 echo "Apply k8s-manifests"
-                kubectl apply -f .
+                sh "kubectl apply -f ."
             }
         }
     }

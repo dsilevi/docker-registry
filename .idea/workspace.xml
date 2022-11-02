@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="336320b8-ea96-4a0b-96d8-00a46575806a" name="Changes" comment="Add build-agent">
-      <change beforePath="$PROJECT_DIR$/deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deployment.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="336320b8-ea96-4a0b-96d8-00a46575806a" name="Changes" comment="fix version deployment-api" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667387120667</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fix version deployment-api">
+      <created>1667393818759</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667393818759</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +112,7 @@
     <MESSAGE value="Add Jenkins pipeline" />
     <MESSAGE value="Edit format error" />
     <MESSAGE value="Add build-agent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add build-agent" />
+    <MESSAGE value="fix version deployment-api" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix version deployment-api" />
   </component>
 </project>

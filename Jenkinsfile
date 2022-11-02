@@ -12,8 +12,7 @@ pipeline {
             steps {
                 echo "Apply k8s-manifests"
                 kubectl apply -f .
-
-                }
             }
         }
+    }
 }

@@ -5,7 +5,7 @@ metadata:
   namespace: devops-tools
 spec:
   selector:
-    app: docker-registry
+    app: registry
   ports:
     - port: 5000
       targetPort: 5000

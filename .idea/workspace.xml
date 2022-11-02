@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="336320b8-ea96-4a0b-96d8-00a46575806a" name="Changes" comment="fix version deployment-api" />
+    <list default="true" id="336320b8-ea96-4a0b-96d8-00a46575806a" name="Changes" comment="add image version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667393818759</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add image version">
+      <created>1667394493821</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667394493821</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +120,7 @@
     <MESSAGE value="Edit format error" />
     <MESSAGE value="Add build-agent" />
     <MESSAGE value="fix version deployment-api" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix version deployment-api" />
+    <MESSAGE value="add image version" />
+    <option name="LAST_COMMIT_MESSAGE" value="add image version" />
   </component>
 </project>

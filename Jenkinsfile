@@ -5,6 +5,7 @@ pipeline {
         timeout(time: 60, unit: 'MINUTES')
     }
     // Pipeline stages
+    agent { node { label 'master' } }
     stages {
 
         ////////// Step 1 //////////
